@@ -149,7 +149,11 @@ This declaration is intended to facilitate a clear factual record and is not int
 
 The Cardholder relies, among other things, upon the regulatory framework governing credit-card issuers and grievance redressal.
 
-The RBI Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022 requires card issuers to maintain internal records enabling operations to be traced and errors to be rectified, and requires a grievance-redress mechanism within the card-issuing entity. It also provides that the designated grievance-redress officer should ensure that cardholder grievances are redressed promptly.
+
+The RBI Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022, including the applicable provisions concerning grievance redressal and maintenance of records, is relied upon for the purpose of this request.
+
+The Reserve Bank – Integrated Ombudsman Scheme, 2026, including the applicable provisions concerning the Regulated Entity's written response and documents relied upon, is also relevant to the factual record requested herein.
+
 
 The RBI Integrated Ombudsman framework provides for the Regulated Entity to submit its written response and documents relied upon in relation to a complaint and provides for relevant material submitted by one party to be furnished to the other party, subject to the applicable framework.
 
