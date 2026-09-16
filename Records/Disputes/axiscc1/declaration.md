@@ -759,7 +759,7 @@ This certification concerns the **formal dispute / chargeback process only** and
 
 ---
 
-# MD & CEO / AUTHORISED SENIOR OFFICER
+# AUTHORISED SENIOR OFFICER
 
 **Name:** _________________________________________
 
