@@ -1,6 +1,6 @@
 
 
-\begin{samepage}
+
 
 # DECLARATION AND CERTIFICATION OF FORMAL DISPUTE / CHARGEBACK PROCESS
 
@@ -42,13 +42,13 @@ Each page of this declaration, including all annexures and attached evidence pag
 
 No page may be omitted, substituted, added, or detached from this declaration after execution without being separately identified, dated, and authenticated by the signing officer.
 
+
+\input{cardholder-rights.md}
+
+
 ---
 
-<!-- \newpage -->
-
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # INTERACTION 1
 
@@ -114,11 +114,7 @@ __________________________________________________
 
 ---
 
-<!-- \newpage -->
-
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 
 # INTERACTION 2
@@ -177,9 +173,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # INTERACTION 3
 
@@ -235,9 +229,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # INTERACTION 4
 
@@ -293,9 +285,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # INTERACTION 5
 
@@ -351,9 +341,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # INTERACTION 6
 
@@ -409,9 +397,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # RETURN-PROOF IDENTIFICATION
 
@@ -506,9 +492,7 @@ __________________________________________________
 
 ---
 
-\end{samepage}
-
-\begin{samepage}
+\newpage
 
 # CERTIFICATION
 
@@ -580,7 +564,7 @@ This certification concerns the **formal dispute / chargeback process only** and
 2. Reserve Bank - Integrated Ombudsman Scheme, 2026.
 3. Relevant correspondence and documents submitted by the cardholder concerning the disputed transaction.
 
-\end{samepage}
+
 
 ### RP-1 — Courier return evidence
 
