@@ -713,7 +713,8 @@ If any applicable question or field remains unanswered, Axis Bank is requested t
 
 # CERTIFICATION
 
-We certify that the information provided in this declaration has been verified against the records available with Axis Bank concerning the **formal dispute / chargeback process** for the transaction identified above.
+We certify that the information supplied by Axis Bank is true and accurate to the best of our knowledge based on the Bank's records.
+
 
 We certify that the information provided is true and accurate to the best of our knowledge based on the Bank's records.
 
