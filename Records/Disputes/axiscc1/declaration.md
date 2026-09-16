@@ -715,7 +715,7 @@ If any applicable question or field remains unanswered, Axis Bank is requested t
 
 We certify that the information supplied by Axis Bank is true and accurate to the best of our knowledge based on the Bank's records.
 
-Where a requested fact cannot be established from the records available, the answer shall state:
+Where a requested fact cannot be established from the records available, the Bank is requested to state:
 
 > **"Not ascertainable from the records available to us."**
 
