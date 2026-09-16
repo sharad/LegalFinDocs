@@ -611,6 +611,22 @@ __________________________________________________
 
 # NON-DISCLOSURE OF COMMUNICATIONS / DOCUMENTS
 
+Axis Bank is requested to provide a response to every applicable question and field in this declaration.
+
+For any question providing **YES / NO / OTHER**, Axis Bank is requested to select **one** of the available responses. An applicable question should not be left blank.
+
+If the answer cannot be established from the records available to Axis Bank, the Bank shall state:
+
+> **"Not ascertainable from the records available to us."**
+
+If a field is not applicable, the Bank shall state:
+
+> **"N/A — Not applicable"**
+
+and provide a brief explanation.
+
+A blank field shall **not be treated as a response**.
+
 If Axis Bank states that any communication, document, officer identity, merchant-bank identity or response cannot be disclosed, please specify:
 
 **Item not disclosed:**
@@ -632,17 +648,40 @@ __________________________________________________
 __________________________________________________  
 __________________________________________________
 
+**If "Bank policy" or "Other" is selected, please identify the specific policy, rule, provision or basis relied upon:**
+
+__________________________________________________  
+__________________________________________________
+
 **Does the stated restriction also prevent Axis Bank from answering the factual question whether the return proof was shared with the merchant/acquiring bank?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: _________________________________
 
+**If YES, please specify the basis on which the factual answer itself cannot be provided:**
+
+__________________________________________________  
+__________________________________________________
+
 **If the actual communication cannot be provided, can Axis Bank provide a factual summary of the communication and its outcome?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: _________________________________
+
+**If NO, please state the specific basis:**
+
+__________________________________________________  
+__________________________________________________
+
+A refusal to provide an underlying document shall not, by itself, be treated as an answer to the separate factual question of whether the relevant document or evidence was **received, transmitted, considered, or relied upon** during the formal dispute / chargeback process.
+
+Where disclosure of an underlying document or communication is restricted, the Cardholder does not require disclosure contrary to law. Axis Bank is nevertheless requested to provide the underlying factual answer to the extent that it can lawfully do so.
+
+If any applicable question or field remains unanswered, Axis Bank is requested to identify the field and state the reason for leaving it unanswered.
+
+
 
 ---
 
