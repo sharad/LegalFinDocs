@@ -244,11 +244,6 @@ __________________________________________________
 
 __________________________________________________
 
-**If NO, was the return proof nevertheless considered by Axis Bank in making the chargeback decision?**
-
-- [ ] YES
-- [ ] NO
-- [ ] OTHER — explain: __________________________________
 
 ### Merchant/acquiring bank response
 
