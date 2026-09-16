@@ -639,11 +639,11 @@ Axis Bank is requested to provide a response to every applicable question and fi
 
 For any question providing **YES / NO / OTHER**, Axis Bank is requested to select **one** of the available responses. An applicable question should not be left blank.
 
-If the answer cannot be established from the records available to Axis Bank, the Bank requested to state:
+If the answer cannot be established from the records available to Axis Bank, the Bank is requested to state:
 
 > **"Not ascertainable from the records available to us."**
 
-If a field is not applicable, the Bank requested to state:
+If a field is not applicable, the Bank is requested to state:
 
 > **"N/A — Not applicable"**
 
