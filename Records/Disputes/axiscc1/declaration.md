@@ -38,7 +38,7 @@ This declaration does **not** require disclosure of information which Axis Bank 
 ## DOCUMENT AUTHENTICATION AND PAGE-BY-PAGE CERTIFICATION
 
 **Page-by-Page Authentication:**  
-Each page of this declaration, including all annexures and attached evidence pages, shall be **initialled or signed by the Principal Nodal Officer or the authorised senior officer signing this declaration**. The initials/signature shall appear on every page and shall be accompanied by the page number (e.g., “Page 1 of 8”). The final page shall contain the officer's full signature, name, designation, date, and official seal/stamp, where applicable.
+Pages except 2-5 of this declaration, including all annexures and attached evidence pages, shall be **initialled or signed by the Principal Nodal Officer or the authorised senior officer signing this declaration**. The initials/signature shall appear on every page and shall be accompanied by the page number (e.g., “Page 1 of 8”). The final page shall contain the officer's full signature, name, designation, date, and official seal/stamp, where applicable.
 
 No page may be omitted, substituted, added, or detached from this declaration after execution without being separately identified, dated, and authenticated by the signing officer.
 
