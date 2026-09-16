@@ -778,17 +778,21 @@ This certification concerns the **formal dispute / chargeback process only** and
 ## Reference Documents
 
 1. Axis Bank Cardholder Dispute Form.
-2. Reserve Bank – Integrated Ombudsman Scheme, 2026 (RB-IOS 2026).
+2. Reserve Bank - Integrated Ombudsman Scheme, 2026.
 3. Relevant correspondence and documents submitted by the cardholder concerning the disputed transaction.
 
 
 
 # ANNEXURE A — RP-1
 
+### RP-1 — Courier return evidence
+
 ![RP-1 — Courier package showing merchant return address](RP1.jpg)
 
 
 # ANNEXURE B — RP-2
+
+### RP-2 — Merchant receipt evidence
 
 ![RP-2 — Picture supplied by merchant after receiving returned product](RP2.jpg)
 
