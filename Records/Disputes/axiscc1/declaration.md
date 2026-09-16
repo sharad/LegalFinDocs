@@ -45,6 +45,10 @@ No page may be omitted, substituted, added, or detached from this declaration af
 
 --
 
+\newpage
+
+
+
 ## CARDHOLDER'S DECLARATIONS, RESERVATION OF RIGHTS AND NON-WAIVER
 
 ### 1. No admission
