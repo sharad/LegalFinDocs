@@ -1,6 +1,6 @@
 
 
-
+\begin{samepage}
 
 # DECLARATION AND CERTIFICATION OF FORMAL DISPUTE / CHARGEBACK PROCESS
 
@@ -44,7 +44,11 @@ No page may be omitted, substituted, added, or detached from this declaration af
 
 ---
 
-\newpage
+<!-- \newpage -->
+
+\end{samepage}
+
+\begin{samepage}
 
 # INTERACTION 1
 
@@ -110,7 +114,11 @@ __________________________________________________
 
 ---
 
-\newpage
+<!-- \newpage -->
+
+\end{samepage}
+
+\begin{samepage}
 
 
 # INTERACTION 2
@@ -169,7 +177,9 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
+
+\begin{samepage}
 
 # INTERACTION 3
 
@@ -227,6 +237,8 @@ __________________________________________________
 
 \newpage
 
+\begin{samepage}
+
 # INTERACTION 4
 
 **Sending Date:** __________________________________
@@ -282,6 +294,8 @@ __________________________________________________
 ---
 
 \newpage
+
+\begin{samepage}
 
 # INTERACTION 5
 
@@ -339,6 +353,8 @@ __________________________________________________
 
 \newpage
 
+\begin{samepage}
+
 # INTERACTION 6
 
 **Sending Date:** __________________________________
@@ -394,6 +410,8 @@ __________________________________________________
 ---
 
 \newpage
+
+\begin{samepage}
 
 # RETURN-PROOF IDENTIFICATION
 
@@ -489,6 +507,8 @@ __________________________________________________
 ---
 
 \newpage
+
+\begin{samepage}
 
 # CERTIFICATION
 
