@@ -235,7 +235,7 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
 
 \begin{samepage}
 
@@ -293,7 +293,7 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
 
 \begin{samepage}
 
@@ -351,7 +351,7 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
 
 \begin{samepage}
 
@@ -409,7 +409,7 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
 
 \begin{samepage}
 
@@ -506,7 +506,7 @@ __________________________________________________
 
 ---
 
-\newpage
+\end{samepage}
 
 \begin{samepage}
 
@@ -580,7 +580,7 @@ This certification concerns the **formal dispute / chargeback process only** and
 2. Reserve Bank - Integrated Ombudsman Scheme, 2026.
 3. Relevant correspondence and documents submitted by the cardholder concerning the disputed transaction.
 
-
+\end{samepage}
 
 ### RP-1 — Courier return evidence
 
