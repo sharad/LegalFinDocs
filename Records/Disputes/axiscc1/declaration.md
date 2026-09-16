@@ -261,12 +261,12 @@ __________________________________________________
 __________________________________________________  
 __________________________________________________
 
+
 ---
 
 \newpage
 
-
-# INTERACTION 2
+# INTERACTION 1
 
 **Sending Date:** __________________________________
 
@@ -282,7 +282,7 @@ __________________________________________________
 __________________________________________________  
 __________________________________________________
 
-### Documents / evidence shared by Axis Bank
+### Documents / evidence shared by Axis Bank in this interaction
 
 __________________________________________________  
 __________________________________________________  
@@ -302,9 +302,10 @@ __________________________________________________
 - [ ] RP-2 — Picture/communication supplied by merchant after receiving the returned product
 - [ ] Other: __________________________________________
 
-**Date/reference:**
+**Date/reference under which the return proof was shared:**
 
 __________________________________________________
+
 
 ### Merchant/acquiring bank response
 
@@ -313,10 +314,12 @@ __________________________________________________
 **Response received:**
 
 __________________________________________________  
+__________________________________________________  
 __________________________________________________
 
-### What did Axis Bank decide/do?
+### What did Axis Bank decide/do after receiving the response?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
@@ -324,7 +327,7 @@ __________________________________________________
 
 \newpage
 
-# INTERACTION 3
+# INTERACTION 1
 
 **Sending Date:** __________________________________
 
@@ -334,45 +337,50 @@ __________________________________________________
 **Department / Reference / Mode:**  
 __________________________________________________
 
-### What did Axis Bank communicate/share?
+### What did Axis Bank communicate to the merchant/acquiring bank?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Documents / evidence shared
+### Documents / evidence shared by Axis Bank in this interaction
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
 ### RETURN PROOF
 
-**Was the cardholder's proof of return shared with the merchant/acquiring bank?**
+**Was the cardholder's proof of return shared with the merchant/acquiring bank in this interaction?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: __________________________________
 
-**Return-proof material, if shared:**
+**If YES, identify the return-proof material shared:**
 
 - [ ] RP-1 — Courier package / return shipment showing merchant's return address
-- [ ] RP-2 — Picture/communication supplied by merchant after receiving returned product
+- [ ] RP-2 — Picture/communication supplied by merchant after receiving the returned product
 - [ ] Other: __________________________________________
 
-**Date/reference:**
+**Date/reference under which the return proof was shared:**
 
 __________________________________________________
+
 
 ### Merchant/acquiring bank response
 
 **Response Date:** __________________________________
 
-**Response:**
+**Response received:**
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Next action / decision by Axis Bank
+### What did Axis Bank decide/do after receiving the response?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
@@ -380,7 +388,7 @@ __________________________________________________
 
 \newpage
 
-# INTERACTION 4
+# INTERACTION 1
 
 **Sending Date:** __________________________________
 
@@ -390,45 +398,50 @@ __________________________________________________
 **Department / Reference / Mode:**  
 __________________________________________________
 
-### What did Axis Bank communicate/share?
+### What did Axis Bank communicate to the merchant/acquiring bank?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Documents / evidence shared
+### Documents / evidence shared by Axis Bank in this interaction
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
 ### RETURN PROOF
 
-**Was the cardholder's proof of return shared with the merchant/acquiring bank?**
+**Was the cardholder's proof of return shared with the merchant/acquiring bank in this interaction?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: __________________________________
 
-**Return-proof material, if shared:**
+**If YES, identify the return-proof material shared:**
 
 - [ ] RP-1 — Courier package / return shipment showing merchant's return address
-- [ ] RP-2 — Picture/communication supplied by merchant after receiving returned product
+- [ ] RP-2 — Picture/communication supplied by merchant after receiving the returned product
 - [ ] Other: __________________________________________
 
-**Date/reference:**
+**Date/reference under which the return proof was shared:**
 
 __________________________________________________
+
 
 ### Merchant/acquiring bank response
 
 **Response Date:** __________________________________
 
-**Response:**
+**Response received:**
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Next action / decision by Axis Bank
+### What did Axis Bank decide/do after receiving the response?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
@@ -436,7 +449,7 @@ __________________________________________________
 
 \newpage
 
-# INTERACTION 5
+# INTERACTION 1
 
 **Sending Date:** __________________________________
 
@@ -446,45 +459,50 @@ __________________________________________________
 **Department / Reference / Mode:**  
 __________________________________________________
 
-### What did Axis Bank communicate/share?
+### What did Axis Bank communicate to the merchant/acquiring bank?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Documents / evidence shared
+### Documents / evidence shared by Axis Bank in this interaction
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
 ### RETURN PROOF
 
-**Was the cardholder's proof of return shared with the merchant/acquiring bank?**
+**Was the cardholder's proof of return shared with the merchant/acquiring bank in this interaction?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: __________________________________
 
-**Return-proof material, if shared:**
+**If YES, identify the return-proof material shared:**
 
 - [ ] RP-1 — Courier package / return shipment showing merchant's return address
-- [ ] RP-2 — Picture/communication supplied by merchant after receiving returned product
+- [ ] RP-2 — Picture/communication supplied by merchant after receiving the returned product
 - [ ] Other: __________________________________________
 
-**Date/reference:**
+**Date/reference under which the return proof was shared:**
 
 __________________________________________________
+
 
 ### Merchant/acquiring bank response
 
 **Response Date:** __________________________________
 
-**Response:**
+**Response received:**
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Next action / decision by Axis Bank
+### What did Axis Bank decide/do after receiving the response?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
@@ -492,7 +510,7 @@ __________________________________________________
 
 \newpage
 
-# INTERACTION 6
+# INTERACTION 1
 
 **Sending Date:** __________________________________
 
@@ -502,49 +520,56 @@ __________________________________________________
 **Department / Reference / Mode:**  
 __________________________________________________
 
-### What did Axis Bank communicate/share?
+### What did Axis Bank communicate to the merchant/acquiring bank?
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Documents / evidence shared
+### Documents / evidence shared by Axis Bank in this interaction
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
 ### RETURN PROOF
 
-**Was the cardholder's proof of return shared with the merchant/acquiring bank?**
+**Was the cardholder's proof of return shared with the merchant/acquiring bank in this interaction?**
 
 - [ ] YES
 - [ ] NO
 - [ ] OTHER — explain: __________________________________
 
-**Return-proof material, if shared:**
+**If YES, identify the return-proof material shared:**
 
 - [ ] RP-1 — Courier package / return shipment showing merchant's return address
-- [ ] RP-2 — Picture/communication supplied by merchant after receiving returned product
+- [ ] RP-2 — Picture/communication supplied by merchant after receiving the returned product
 - [ ] Other: __________________________________________
 
-**Date/reference:**
+**Date/reference under which the return proof was shared:**
 
 __________________________________________________
+
 
 ### Merchant/acquiring bank response
 
 **Response Date:** __________________________________
 
-**Response:**
+**Response received:**
 
+__________________________________________________  
 __________________________________________________  
 __________________________________________________
 
-### Next action / decision by Axis Bank
+### What did Axis Bank decide/do after receiving the response?
 
 __________________________________________________  
+__________________________________________________  
 __________________________________________________
+
 
 ---
+
 
 \newpage
 
