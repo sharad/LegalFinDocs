@@ -43,6 +43,8 @@ Each page of this declaration, including all annexures and attached evidence pag
 No page may be omitted, substituted, added, or detached from this declaration after execution without being separately identified, dated, and authenticated by the signing officer.
 
 
+--
+
 \input{cardholder-rights.md}
 
 
