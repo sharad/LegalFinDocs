@@ -133,7 +133,7 @@ Where disclosure of the underlying document is prohibited but the underlying fac
 
 ### 10. No authorization to make adverse use of ambiguity
 
-The Cardholder does not intend an ambiguous, incomplete or qualified response to be construed as a definitive factual admission by the Cardholder.
+The Cardholder does not consent to an ambiguous, incomplete or qualified response being represented as a definitive factual admission by the Cardholder.
 
 Where a question cannot be answered definitively, the Cardholder requests that Axis Bank identify the answer as "YES", "NO", "OTHER", or "NOT ASCERTAINABLE FROM RECORDS", as applicable, together with a concise explanation.
 
