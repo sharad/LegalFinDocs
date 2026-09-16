@@ -783,12 +783,12 @@ This certification concerns the **formal dispute / chargeback process only** and
 
 
 
-### RP-1 — Courier return evidence
+# ANNEXURE A — RP-1
 
 ![RP-1 — Courier package showing merchant return address](RP1.jpg)
 
 
-### RP-2 — Merchant receipt evidence
+# ANNEXURE B — RP-2
 
 ![RP-2 — Picture supplied by merchant after receiving returned product](RP2.jpg)
 
