@@ -45,7 +45,9 @@ No page may be omitted, substituted, added, or detached from this declaration af
 
 --
 
-\input{cardholder-rights.md}
+
+
+
 
 
 ---
