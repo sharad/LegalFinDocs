@@ -170,6 +170,30 @@ The Cardholder's signature, if placed on any copy of this declaration, shall sig
 It shall not signify acceptance of any response subsequently inserted by Axis Bank, acceptance of any undisclosed document, waiver of any right, or settlement of the underlying dispute unless a separate written settlement is expressly executed for that purpose.
 
 
+---
+
+## CARDHOLDER'S ACKNOWLEDGEMENT AND SIGNATURE
+
+I confirm that the statements made by me in this Cardholder's Declaration are made in good faith and based on the information and documents presently available to me.
+
+My signature acknowledges **submission of this declaration only**. It does not constitute acceptance of any statement, response, determination or conclusion made by Axis Bank, the merchant, the acquiring/merchant bank, or any other party.
+
+My signature does not constitute a waiver, release, settlement, compromise, admission of liability, or acceptance of the outcome of the dispute / chargeback process.
+
+**Cardholder Name:**  
+____________________________________________
+
+**Date:**  
+____________________________________________
+
+**Place:**  
+____________________________________________
+
+**Signature:**  
+____________________________________________
+
+**Date of Signature:**  
+____________________________________________
 
 ---
 
